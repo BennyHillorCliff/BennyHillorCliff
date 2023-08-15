@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D-Fox-LTL
 - 👀 I’m interested in learning all about IT, from hardware, scripting, to cybersecurity!
-- 🌱 I’m currently learning scientific computing with C#, C, python, JavaScript and SQL databases
+- 🌱 I’m currently learning C#, C, python, JavaScript and SQL databases for Programming and trying to learn the fundamentals of Cybersecurity 
 - 💞️ I’m looking to collaborate on anything, that can help me with my jurney and help you with your program
 - 📫 How to reach me -> github
 
